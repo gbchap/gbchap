@@ -3,7 +3,7 @@
 ## ୨💫୧˖° Hello! I'm Chap ^^  ♡‧₊˚
 ୨🍥୧ Currently studying [Computer Science](https://www2.ufjf.br/cursocomputacao/) at the [Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/) (UFJF);</br> 
 ୨🌱୧ Learning C++, Python, JavaScript, CSS, HTML;</br>
-୨🌷୧ Advocating for diversity in tech | Undergraduate volunteer at [Meninas Digitais UFJF](https://br.linkedin.com/company/meninas-digitais-ufjf) & [Café das Minas];
+୨🌷୧ Advocating for diversity in tech | Undergraduate volunteer at [Meninas Digitais UFJF](https://br.linkedin.com/company/meninas-digitais-ufjf) & [Café das Minas](https://www.linkedin.com/company/cafedasminas/posts/?feedView=all);
 </br> 
 </br> 
 ## ୨💻୧˖° Tech Stack:
