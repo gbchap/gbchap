@@ -1,6 +1,6 @@
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
-## ୨💫୧˖° Hello! I'm Gabi ♡‧₊˚
+## ୨💫୧˖° Hello! I'm Gabi Chap ♡‧₊˚
 ୨🍥୧ Currently studying [Computer Science](https://www2.ufjf.br/cursocomputacao/) at the [Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/) (UFJF);</br> 
 ୨🌱୧ Learning C++, Python, Java, JavaScript, CSS, HTML;</br>
 ୨🌷୧ Advocating for diversity in tech | Undergraduate volunteer at [Meninas Digitais UFJF](https://br.linkedin.com/company/meninas-digitais-ufjf);
